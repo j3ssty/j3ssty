@@ -55,34 +55,4 @@
 
     <p>📍 Nairobi, Kenya</p>
 
-    <div style="text-align: center; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; padding: 30px 10px; clear: both; width: 100%; box-sizing: border-box;">
-    
-    <h2 style="font-size: 1.5rem; font-weight: 600; color: #333; margin: 0 auto 10px auto; text-align: left; max-width: 800px;">Connect with me</h2>
-    
-    <hr style="border: none; border-top: 1px solid #e0e0e0; max-width: 800px; margin: 0 auto 20px auto;" />
-
-    <!-- Pure CSS Badges Row (No External Images) -->
-    <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 8px; margin-bottom: 25px; max-width: 800px; margin-left: auto; margin-right: auto;">
-        
-       
-    </div>
-
-    <!-- Call to Action Text -->
-    <p style="font-size: 1.05rem; color: #222; margin: 0 0 15px 0; font-weight: 500;">
-        Got a project in mind? Let's build something great together.
-    </p>
-    
-    <!-- Pure CSS Let's Talk Button -->
-    <div style="margin-bottom: 25px;">
-        <a href="https://wa.me/254728396090" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-family: sans-serif; font-size: 12px; font-weight: bold; letter-spacing: 0.5px; color: #fff; background: #25D366; padding: 8px 14px; border-radius: 4px; display: inline-block; text-transform: uppercase; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-            Let's Talk
-        </a>
-    </div>
-    
-    <!-- Subtext -->
-    <p style="color: #666; font-size: 0.85rem; margin: 0;">
-        Available for freelance, consulting & collaboration — reach out via +254 728 396 090
-    </p>
-</div>
-</div>
-    
+   
