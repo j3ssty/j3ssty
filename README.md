@@ -12,10 +12,21 @@
 - 🤝 Open to "beginner-friendly open source projects.
 
 ## ⚔️ Skills I'm Building
-<p>
-  <img
-    src="https://skillicons.dev/icons?i=git,github,python,html,css,js,cpp" />
-</p>
+## 🛠️ TECH STACK
+
+### Languages
+![Python](https://img.shields.io/badge/Python-blue)
+![C++](https://img.shields.io/badge/C++-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
+### Web
+![HTML](https://img.shields.io/badge/HTML-red)
+![CSS](https://img.shields.io/badge/CSS-blue)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-orange)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![VS Code](https://img.shields.io/badge/VSCode-blue)
 
 ## 🔥 Projects
 - 📈 ForexRisk Calculator -A simple python basedtoolthat helps traders to improve trading by risk management rules.
