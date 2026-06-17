@@ -6,10 +6,17 @@
 
 </div>
 
-## 🚀 About Me
-- 🎓 Computer science student  in university of nairobi.
-- 💻 Interested in  "AI, web development, and data science.
-- 🤝 Open to "beginner-friendly open source projects.
+## 🧠 ABOUT ME
+
+🎓 Mechatronics Engineering Graduate  
+🤖 Robotics • Artificial Intelligence • Automation  
+💻 Transitioning into Advanced Software Engineering  
+🌍 Kenya  
+
+- 🔭 Building AI & automation systems  
+- 🌱 Learning Machine Learning & Full-Stack Development  
+- 👯 Open to robotics & AI collaborations  
+- ⚡ Competitive gamer + tech innovator  
 
 # ⚔️ Skills I'm Building
 ### 🛠️ TECH STACK
