@@ -12,7 +12,7 @@
 - 🤝 Open to "beginner-friendly open source projects.
 
 ## ⚔️ Skills I'm Building
-## 🛠️ TECH STACK
+# 🛠️ TECH STACK
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-blue)
