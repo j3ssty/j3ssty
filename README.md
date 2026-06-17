@@ -11,8 +11,8 @@
 - 💻 Interested in  "AI, web development, and data science.
 - 🤝 Open to "beginner-friendly open source projects.
 
-## ⚔️ Skills I'm Building
-# 🛠️ TECH STACK
+# ⚔️ Skills I'm Building
+### 🛠️ TECH STACK
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-blue)
