@@ -8,8 +8,8 @@
 
 ## 🧠 ABOUT ME
 
-🎓 Mechatronics Engineering Graduate  
-🤖 Robotics • Artificial Intelligence • Automation  
+🎓 computer science student at university of Nairobi (UON)
+🤖 Interested in Robotics • Artificial Intelligence • Automation  
 💻 Transitioning into Advanced Software Engineering  
 🌍 Kenya  
 
