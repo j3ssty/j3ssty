@@ -51,6 +51,9 @@
 3. FinanceFlow Dashboard   <a href="https://letema.github.io/FinanceFlow-Dashboard/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 0.85rem; font-weight: 700; color: #16a34a; display: inline-flex; align-items: center; gap: 4px; width: fit-content;" onmouseover="this.style.color='#0f172a'" onmouseout="this.style.color='#16a34a'">
                 View <span style="font-size: 1rem;">➔</span>
             </a>
+-    <p style="font-size: 0.95rem; color: #475569; line-height: 1.6; margin: 0 0 20px 0;">
+                              FinanceFlow Dashboard is a client-side web application engineered for real-time personal expense tracking, budgetary ledger calculations, and transaction stream management. The application features a mathematical state engine that automatically resolves concurrent net balance, dynamic incomes, and expense streams upon user mutations.
+                        </p>
 4. Productivity Kanban Board  <a href="https://letema.github.io/kanban/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 0.85rem; font-weight: 700; color: #16a34a; display: inline-flex; align-items: center; gap: 4px; width: fit-content;" onmouseover="this.style.color='#0f172a'" onmouseout="this.style.color='#16a34a'">
                 View <span style="font-size: 1rem;">➔</span>
             </a>
