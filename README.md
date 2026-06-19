@@ -54,6 +54,9 @@
 4. Productivity Kanban Board  <a href="https://letema.github.io/kanban/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 0.85rem; font-weight: 700; color: #16a34a; display: inline-flex; align-items: center; gap: 4px; width: fit-content;" onmouseover="this.style.color='#0f172a'" onmouseout="this.style.color='#16a34a'">
                 View <span style="font-size: 1rem;">➔</span>
             </a>
+-   <p style="font-size: 0.95rem; color: #475569; line-height: 1.6; margin: 0 0 20px 0;">
+                             A Productivity Kanban Board that helps users organize tasks into categories like To Do, In Progress, and Done. It improves task management through a simple drag-and-drop interface.
+                        </p>
  
 ## 📬 Connect with me
 - Email: letemakutto00@gmail.com
