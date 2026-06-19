@@ -45,6 +45,9 @@
 2. Crypto live price tracker    <a href="https://letema.github.io/crypto-tracker/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 0.85rem; font-weight: 700; color: #16a34a; display: inline-flex; align-items: center; gap: 4px; width: fit-content;" onmouseover="this.style.color='#0f172a'" onmouseout="this.style.color='#16a34a'">
                 View <span style="font-size: 1rem;">➔</span>
             </a>
+-   <p style="font-size: 0.95rem; color: #475569; line-height: 1.6; margin: 0 0 20px 0;">
+                             Developed a Crypto Live Price Tracker that provides real-time updates of cryptocurrency prices using live API data. The project features dynamic data rendering, responsive design, and efficient API handling, showcasing skills in JavaScript, API integration, and front-end development.
+                        </p>
 3. FinanceFlow Dashboard   <a href="https://letema.github.io/FinanceFlow-Dashboard/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 0.85rem; font-weight: 700; color: #16a34a; display: inline-flex; align-items: center; gap: 4px; width: fit-content;" onmouseover="this.style.color='#0f172a'" onmouseout="this.style.color='#16a34a'">
                 View <span style="font-size: 1rem;">➔</span>
             </a>
