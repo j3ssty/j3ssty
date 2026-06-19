@@ -36,16 +36,19 @@
 ![VS Code](https://img.shields.io/badge/VSCode-blue)
 
 ## 🔥 Projects
-- Weather App   <a href="https://letema.github.io/Weather-App/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 0.85rem; font-weight: 700; color: #16a34a; display: inline-flex; align-items: center; gap: 4px; width: fit-content;" onmouseover="this.style.color='#0f172a'" onmouseout="this.style.color='#16a34a'">
+1. Weather App   <a href="https://letema.github.io/Weather-App/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 0.85rem; font-weight: 700; color: #16a34a; display: inline-flex; align-items: center; gap: 4px; width: fit-content;" onmouseover="this.style.color='#0f172a'" onmouseout="this.style.color='#16a34a'">
                 View <span style="font-size: 1rem;">➔</span>
             </a>
-- Crypto live price tracker    <a href="https://letema.github.io/crypto-tracker/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 0.85rem; font-weight: 700; color: #16a34a; display: inline-flex; align-items: center; gap: 4px; width: fit-content;" onmouseover="this.style.color='#0f172a'" onmouseout="this.style.color='#16a34a'">
+-  <p style="font-size: 0.95rem; color: #475569; line-height: 1.6; margin: 0 0 20px 0;">
+                 Built a weather application that fetches live weather data from an API and displays temperature, humidity, and atmospheric conditions for any city worldwide.
+                </p>
+2. Crypto live price tracker    <a href="https://letema.github.io/crypto-tracker/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 0.85rem; font-weight: 700; color: #16a34a; display: inline-flex; align-items: center; gap: 4px; width: fit-content;" onmouseover="this.style.color='#0f172a'" onmouseout="this.style.color='#16a34a'">
                 View <span style="font-size: 1rem;">➔</span>
             </a>
-- FinanceFlow Dashboard   <a href="https://letema.github.io/FinanceFlow-Dashboard/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 0.85rem; font-weight: 700; color: #16a34a; display: inline-flex; align-items: center; gap: 4px; width: fit-content;" onmouseover="this.style.color='#0f172a'" onmouseout="this.style.color='#16a34a'">
+3. FinanceFlow Dashboard   <a href="https://letema.github.io/FinanceFlow-Dashboard/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 0.85rem; font-weight: 700; color: #16a34a; display: inline-flex; align-items: center; gap: 4px; width: fit-content;" onmouseover="this.style.color='#0f172a'" onmouseout="this.style.color='#16a34a'">
                 View <span style="font-size: 1rem;">➔</span>
             </a>
-- Productivity Kanban Board  <a href="https://letema.github.io/kanban/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 0.85rem; font-weight: 700; color: #16a34a; display: inline-flex; align-items: center; gap: 4px; width: fit-content;" onmouseover="this.style.color='#0f172a'" onmouseout="this.style.color='#16a34a'">
+4. Productivity Kanban Board  <a href="https://letema.github.io/kanban/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 0.85rem; font-weight: 700; color: #16a34a; display: inline-flex; align-items: center; gap: 4px; width: fit-content;" onmouseover="this.style.color='#0f172a'" onmouseout="this.style.color='#16a34a'">
                 View <span style="font-size: 1rem;">➔</span>
             </a>
  
