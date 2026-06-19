@@ -39,7 +39,9 @@
 - Weather App  <a href="weather.html" style="text-decoration: none; font-size: 0.85rem; font-weight: 700; color: #16a34a; display: inline-flex; align-items: center; gap: 4px; width: fit-content; transition: color 0.2s ease;" onmouseover="this.style.color='#0f172a'" onmouseout="this.style.color='#16a34a'">
                         View <span style="font-size: 1rem;">➔</span>
                     </a>
-- Crypto live price tracker
+- Crypto live price tracker    <a href="https://letema.github.io/crypto-tracker/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 0.85rem; font-weight: 700; color: #16a34a; display: inline-flex; align-items: center; gap: 4px; width: fit-content;" onmouseover="this.style.color='#0f172a'" onmouseout="this.style.color='#16a34a'">
+                View <span style="font-size: 1rem;">➔</span>
+            </a>
 - FinanceFlow Dashboard
 - Productivity Kanban Board  <a href="https://letema.github.io/kanban/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; font-size: 0.85rem; font-weight: 700; color: #16a34a; display: inline-flex; align-items: center; gap: 4px; width: fit-content;" onmouseover="this.style.color='#0f172a'" onmouseout="this.style.color='#16a34a'">
                 View <span style="font-size: 1rem;">➔</span>
