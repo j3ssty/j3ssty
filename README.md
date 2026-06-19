@@ -36,6 +36,10 @@
 ![VS Code](https://img.shields.io/badge/VSCode-blue)
 
 ## 🔥 Projects
+- Weather App
+- Crypto live price tracker
+- FinanceFlow Dashboard
+- Productivity Kanban Board
  
 ## 📬 Connect with me
 - Email: letemakutto00@gmail.com
