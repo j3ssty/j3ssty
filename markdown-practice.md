@@ -92,5 +92,5 @@ Hi, I'm **Letema Kutto** — a proud *Mechatronics Engineering* graduate diving 
 
 > "The best way to predict the future is to invent it. Hardware gives us a body, but Artificial Intelligence gives us a brain."
 
-You can track my real-time learning progress, review my open-source code repositories, and collaborate on future projects by actively [Visiting My GitHub Profile](https://github.com).
+You can track my real-time learning progress, review my open-source code repositories, and collaborate on future projects by actively [Visiting My GitHub Profile](https://github.com/j3ssty).
 
