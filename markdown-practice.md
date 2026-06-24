@@ -1,6 +1,6 @@
 # Markdown Practice Assignment
 **Student Name:** Letema Kutto  
-**Course:** Software Development & AI Integration  
+**Course:** Artificial inteligence 
 
 ---
 
