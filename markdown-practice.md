@@ -4,7 +4,7 @@
 
 ---
 
-## Exercise 1 — Headings
+# Headings
 ## My Learning Goals
 ### This Semester
 
@@ -15,14 +15,14 @@ To succeed in modern tech, I must become a **skilled** programmer, remain highly
 
 ---
 
-## Exercise 3 — Links
+# Links
 Building a professional network and utilizing documentation is critical for developers. Here are my essential links:
 * Open and explore [My GitHub Profile](https://github.com) to see my latest repository updates and code commits.
 * For mastering frontend development, I constantly reference the [MDN Web Docs - Useful Developer Reference](https://mozilla.org) for high-quality documentation.
 
 ---
 
-## Exercise 4 — Lists
+# Lists
 ### Core Competencies I Want to Learn:
 * **Full-Stack Web Development:** Building interactive, responsive web applications from scratch.
 * **Advanced Version Control:** Mastering branch management, merge conflict resolution, and collaborative workflows.
@@ -35,7 +35,7 @@ Building a professional network and utilizing documentation is critical for deve
 
 ---
 
-## Exercise 5 — Table
+# Table
 
 | Tool | Purpose | Link |
 | :--- | :--- | :--- |
@@ -45,7 +45,7 @@ Building a professional network and utilizing documentation is critical for deve
 
 ---
 
-## Exercise 6 — Task list
+# Task list
 ### Academic & Technical Milestones:
 - [x] Install Git locally and configure global username/email settings
 - [x] Create a professional GitHub account and initialize a Profile README
@@ -55,7 +55,7 @@ Building a professional network and utilizing documentation is critical for deve
 
 ---
 
-## Exercise 7 — Code block
+# Code block
 ```python
 # A simple greeting script demonstrating basic Python syntax and variable usage
 def welcome_message(user_name):
@@ -68,12 +68,12 @@ welcome_message("Letema Kutto")
 
 ---
 
-## Exercise 8 — Blockquote
+# Blockquote
 > "Consistency beats motivation. Software development is not about sudden bursts of genius; it is about showing up every single day to write code. Start exactly where you are. Use whatever tools you have right now. Do absolutely what you can to make progress."
 
 ---
 
-## Bonus — Put it all together (About Me)
+# Bonus — Put it all together (About Me)
 ## About Me
 
 Hi, I'm **Letema Kutto** — a proud *Mechatronics Engineering* graduate diving deep into the worlds of advanced software development and `Artificial Intelligence`. My academic background allows me to understand physical hardware automation, and I am now focusing on powering those systems with intelligent software.
