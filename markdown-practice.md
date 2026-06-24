@@ -10,7 +10,7 @@
 
 ---
 
-## Exercise 2 — Text formatting
+# Text formatting
 To succeed in modern tech, I must become a **skilled** programmer, remain highly *consistent* with my daily production, and master industry-standard version control using the `Git` command-line interface.
 
 ---
